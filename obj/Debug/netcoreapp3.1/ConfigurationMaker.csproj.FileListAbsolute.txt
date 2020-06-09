@@ -1,0 +1,11 @@
+C:\Users\MI\Documents\Projects\XmlTest\bin\Debug\netcoreapp3.1\ConfigurationMaker.exe
+C:\Users\MI\Documents\Projects\XmlTest\bin\Debug\netcoreapp3.1\ConfigurationMaker.deps.json
+C:\Users\MI\Documents\Projects\XmlTest\bin\Debug\netcoreapp3.1\ConfigurationMaker.runtimeconfig.json
+C:\Users\MI\Documents\Projects\XmlTest\bin\Debug\netcoreapp3.1\ConfigurationMaker.runtimeconfig.dev.json
+C:\Users\MI\Documents\Projects\XmlTest\bin\Debug\netcoreapp3.1\ConfigurationMaker.dll
+C:\Users\MI\Documents\Projects\XmlTest\bin\Debug\netcoreapp3.1\ConfigurationMaker.pdb
+C:\Users\MI\Documents\Projects\XmlTest\obj\Debug\netcoreapp3.1\ConfigurationMaker.csprojAssemblyReference.cache
+C:\Users\MI\Documents\Projects\XmlTest\obj\Debug\netcoreapp3.1\ConfigurationMaker.AssemblyInfoInputs.cache
+C:\Users\MI\Documents\Projects\XmlTest\obj\Debug\netcoreapp3.1\ConfigurationMaker.AssemblyInfo.cs
+C:\Users\MI\Documents\Projects\XmlTest\obj\Debug\netcoreapp3.1\ConfigurationMaker.dll
+C:\Users\MI\Documents\Projects\XmlTest\obj\Debug\netcoreapp3.1\ConfigurationMaker.pdb
